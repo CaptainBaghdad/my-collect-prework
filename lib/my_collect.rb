@@ -9,7 +9,7 @@ def my_collect(lang)
     end
  
        
-       lang
+       na
   
   
 end 
