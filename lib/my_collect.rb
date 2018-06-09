@@ -14,7 +14,9 @@ def my_collect(lang)
   
 end 
 
-#my_collect(a) {|e| e.upcase}
+my_collect(a) do |e| 
+  e.upcase 
+end
 #my_collect(students) {|s| s.split(" ").first}
 
 
