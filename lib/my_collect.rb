@@ -16,7 +16,7 @@ end
 
 #my_collect(['ruby', 'javascript', 'python', 'objective-c']) do |e| 
  # e.upcase 
-end
+#end
 #my_collect(students) {|s| s.split(" ").first}
 
 
