@@ -15,7 +15,7 @@ def my_collect(lang)
 end 
 
 #my_collect(['ruby', 'javascript', 'python', 'objective-c']) do |e| 
-  e.upcase 
+ # e.upcase 
 end
 #my_collect(students) {|s| s.split(" ").first}
 
